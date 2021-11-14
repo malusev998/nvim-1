@@ -6,8 +6,8 @@ _   _                 _
 |_| \_|\___|\___/ \_/ |_|_| |_| |_|
 
 Version: 0.1.3
-Maintainer: Dušan Mitrović
-repository: https://github.com/dusnm/nvim.git
+Maintainer: Dusan Malusev
+repository: https://github.com/malusev998/nvim.git
 ```
 
 ## Requirements
