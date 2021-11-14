@@ -18,7 +18,7 @@ repository: https://github.com/dusnm/nvim.git
 
 ## Clone this repository
 ```
-git clone https://github.com/dusnm/nvim.git ~/.config/nvim
+git clone https://github.com/malusev998/nvim.git ~/.config/nvim
 ```
 
 ## Install language servers
