@@ -14,6 +14,7 @@ local opt = vim.opt            -- global/buffer/windows-scoped options
 -------------
 -- General --
 -------------
+g.material_style = "deep ocean"
 g.mapleader = ','	                        -- set leader key
 g.ranger_replace_netrw = 1                -- open ranger when opening a directory
 opt.mouse = 'a'		                        -- enable mouse support
@@ -55,6 +56,7 @@ cmd [[
 ------------
 opt.termguicolors = true -- enable 24-bit color support
 opt.background = 'dark'  -- set the default colorscheme variant to dark
+
 cmd [[ colorscheme material ]]
 
 -------------------------
